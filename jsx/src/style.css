@@ -1,0 +1,10 @@
+.titlered {
+    color: red;
+    text-align: center;
+    background-color:lightblue;
+    border-style:solid;
+    border-radius: 10px;
+    box-shadow: 6px 6px ;
+    width:50%;
+    margin-left: 10%;
+}
